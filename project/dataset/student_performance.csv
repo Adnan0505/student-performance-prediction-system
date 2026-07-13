@@ -1,0 +1,11 @@
+Date,Student,Roll No,Algorithm,Grade,Result,Category,Confidence %,Final Marks
+2026-07-13T14:33:19.813505,SANIYA,27600122196,decision_tree,A,Pass,Excellent,98.74,87.09
+2026-07-13T14:31:48.927781,Aftab,27600122143,random_forest,D,Pass,At Risk,67.41,38.39
+2026-07-13T14:29:58.772923,Yousuf,27600122240,random_forest,D,Pass,At Risk,80.14,44.35
+2026-07-13T14:26:54.405172,haider,27600122150,decision_tree,C,Pass,At Risk,100.0,62.23
+2026-07-13T14:24:40.818503,yasir,27600122149,decision_tree,F,Fail,At Risk,97.07,49.23
+2026-07-13T14:22:45.624109,Kaif karim,27600122238,random_forest,B,Pass,Good,71.22,77.78
+2026-07-13T14:19:49.876126,Sanan,27600122195,random_forest,C,Pass,Average,59.65,55.71
+2026-07-13T14:17:52.860929,kaif,27600122236,random_forest,C,Pass,Average,61.61,58.07
+2026-07-13T14:15:51.596663,Md Adnan Karim,27600122237,decision_tree,F,Fail,At Risk,97.07,44.54
+2026-07-13T14:13:36.031478,SANIYA PARMIN,27600122194,random_forest,D,Pass,At Risk,58.27,50.96
