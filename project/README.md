@@ -219,3 +219,39 @@ See the `docs/` folder for:
 - `ARCHITECTURE.md` — system architecture + data flow diagrams
 - `PROJECT_REPORT.md` — ready-to-adapt final year project report
 - `PPT_CONTENT.md` — slide-by-slide content for your presentation
+
+---
+
+# 👨‍💻 Project Information
+
+**Project Title:** AI-Based Student Performance Prediction & Classification System (SPPS)
+
+**Department:** Computer Science & Engineering
+
+**College:** Budge Budge Institute of Technology (BBIT)
+
+**University:** Maulana Abul Kalam Azad University of Technology (MAKAUT)
+
+**Academic Session:** 2025–2026
+
+**Project Guide:** Mr. Jyoti Priyo Khanra
+
+---
+
+# 👥 Project Team
+
+- Saniya Parmin
+- Md Adnan Karim
+- Yasir Jamal Noori
+- Shah Md Haider Ali
+- Aftab Mansoori
+
+---
+
+## 📄 License
+
+This project has been developed for academic and educational purposes as part of the B.Tech Final Year Project submitted to the Department of Computer Science & Engineering, Budge Budge Institute of Technology (BBIT), under MAKAUT.
+
+This repository is intended solely for academic demonstration, learning, and project evaluation purposes.
+
+© 2026 Project Team. All Rights Reserved.
