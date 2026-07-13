@@ -1,0 +1,18 @@
+{
+  "random_forest": {
+    "attendance": 0.2859,
+    "internal_marks": 0.3234,
+    "assignment_score": 0.1298,
+    "study_hours": 0.112,
+    "previous_marks": 0.1105,
+    "age": 0.0385
+  },
+  "decision_tree": {
+    "attendance": 0.3116,
+    "internal_marks": 0.4153,
+    "assignment_score": 0.134,
+    "study_hours": 0.0657,
+    "previous_marks": 0.0663,
+    "age": 0.007
+  }
+}
