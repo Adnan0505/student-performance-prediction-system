@@ -17,9 +17,9 @@ def _send(msg):
             server.send_message(msg)
         return True
     except Exception as e:
-        print(f"[mailer] Failed to send email: {e}")
-        return False
-
+    import traceback
+    traceback.print_exc()
+    return False
 
 def send_password_reset_email(to_email, name, token):
     msg = EmailMessage()
