@@ -3,6 +3,11 @@ import shutil
 from datetime import datetime
 from flask import Flask, jsonify, request
 
+# 👇--- YEH DO LINES ADD KI HAIN .env LOAD KARNE KE LIYE ---👇
+from dotenv import load_dotenv
+load_dotenv()
+# 👆---------------------------------------------------------👆
+
 from config import Config
 from database import init_db, get_db
 
